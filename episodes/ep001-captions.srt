@@ -1,0 +1,536 @@
+1
+00:00:00,000 --> 00:00:03,003
+Riyadh's main international airport is closed.
+
+2
+00:00:03,003 --> 00:00:05,092
+Missiles over the Saudi capital.
+
+3
+00:00:05,092 --> 00:00:08,161
+Oil above one hundred and six dollars a barrel.
+
+4
+00:00:08,161 --> 00:00:13,907
+And in Ukraine, a ceasefire announced by the American president is already coming apart.
+
+5
+00:00:13,907 --> 00:00:18,282
+This is The World in Ten, the world explained, one story at a time.
+
+6
+00:00:18,282 --> 00:00:21,938
+Today is Tuesday, October thirteenth, twenty twenty-six.
+
+7
+00:00:21,938 --> 00:00:23,832
+Here's what matters, and why.
+
+8
+00:00:24,332 --> 00:00:26,318
+Welcome to The World in Ten.
+
+9
+00:00:26,318 --> 00:00:30,645
+This is your global briefing for Tuesday, October thirteenth.
+
+10
+00:00:30,645 --> 00:00:36,108
+Today: the war in the Middle East widens as missiles strike Riyadh's airport.
+
+11
+00:00:36,108 --> 00:00:40,222
+Ukraine defies Washington over a fragile energy ceasefire.
+
+12
+00:00:40,222 --> 00:00:43,131
+Markets tumble across Asia as oil surges.
+
+13
+00:00:43,131 --> 00:00:49,942
+The Nobel Prizes honor an economics duo and a human rights jurist, and spark a diplomatic fight.
+
+14
+00:00:49,942 --> 00:00:53,843
+Artificial intelligence has its biggest week in months.
+
+15
+00:00:53,843 --> 00:00:58,880
+And the clean-energy transition gets an unlikely push, from war itself.
+
+16
+00:00:58,880 --> 00:00:59,731
+Let's begin.
+
+17
+00:01:00,231 --> 00:01:04,818
+Our lead story: Saudi Arabia is under sustained missile and drone attack.
+
+18
+00:01:04,818 --> 00:01:12,231
+On Saturday, Iran-backed Houthi rebels struck King Khalid International Airport in Riyadh, the kingdom's main air hub.
+
+19
+00:01:12,231 --> 00:01:20,147
+At least thirteen people were killed, including four Saudis and an American citizen, and more than three hundred were wounded.
+
+20
+00:01:20,147 --> 00:01:26,492
+Footage from inside the terminal showed passengers diving for cover as part of the ceiling collapsed.
+
+21
+00:01:26,492 --> 00:01:30,764
+A second strike on Sunday killed one more person and injured eleven.
+
+22
+00:01:30,764 --> 00:01:39,057
+And on Monday, Saudi air defenses intercepted three more ballistic missiles, one over Riyadh, two over the southwest of the country.
+
+23
+00:01:39,057 --> 00:01:45,465
+The airport remains closed until at least October seventeenth, with several hundred flights cancelled.
+
+24
+00:01:45,465 --> 00:01:53,067
+Britain's Foreign Office now advises against all but essential travel to Riyadh, Jeddah, Dammam, and most Saudi airports.
+
+25
+00:01:53,067 --> 00:01:59,098
+The American aviation authority has warned U S airlines to exercise caution over Saudi airspace.
+
+26
+00:01:59,098 --> 00:02:10,972
+Why it matters: this is the deadliest attack on Saudi Arabia in more than a decade, and a dramatic widening of a war that began in February, when the United States and Israel attacked Iran.
+
+27
+00:02:10,972 --> 00:02:18,951
+The Houthis, armed and backed by Tehran, have now shown they can reach deep into the kingdom and shut down its busiest airport.
+
+28
+00:02:18,951 --> 00:02:24,919
+What next: Saudi Arabia's energy minister has vowed what he called an equally serious response.
+
+29
+00:02:24,919 --> 00:02:37,107
+President Trump says he's considering joining Saudi retaliation against the Houthis in Yemen, a decision that would deepen American involvement just three weeks before the U S midterm elections.
+
+30
+00:02:37,107 --> 00:02:40,311
+We'll go deeper on this story later in the episode.
+
+31
+00:02:40,812 --> 00:02:46,006
+To Ukraine, where a ceasefire announced with great fanfare is already fraying.
+
+32
+00:02:46,006 --> 00:02:57,660
+On Sunday, President Trump declared what he called an immediate energy ceasefire between Russia and Ukraine, a halt to attacks on power plants, refineries, and gas facilities.
+
+33
+00:02:57,660 --> 00:03:04,852
+Within hours, Ukraine's President Zelensky said Russia had violated it by striking a Ukrainian gas facility.
+
+34
+00:03:04,852 --> 00:03:16,906
+And Zelensky went further: he vowed Ukraine would continue its own retaliatory strikes against Russian oil refineries, openly defying an order from the Trump administration to stop.
+
+35
+00:03:16,906 --> 00:03:21,968
+Washington blames those Ukrainian strikes for record American diesel prices.
+
+36
+00:03:21,968 --> 00:03:26,030
+Zelensky's answer: Kyiv will stop only if Moscow stops first.
+
+37
+00:03:26,030 --> 00:03:33,822
+Analysts say that's unlikely, with winter approaching and Russia trying to cripple Ukraine's heating and electricity.
+
+38
+00:03:33,822 --> 00:03:48,672
+Meanwhile, Trump announced a separate, contentious deal: Russia would supply millions of tons of diesel to the United States over the next three months, in defiance, critics say, of sanctions Trump himself signed weeks ago.
+
+39
+00:03:48,672 --> 00:03:53,134
+Seven U S senators, from both parties, are demanding he reverse it.
+
+40
+00:03:53,134 --> 00:04:00,993
+The volumes involved, analysts note, equal roughly twelve hours of global diesel consumption, barely a dent in prices.
+
+41
+00:04:00,993 --> 00:04:07,785
+Why it matters: with American midterm elections on November third, fuel prices are political dynamite.
+
+42
+00:04:07,785 --> 00:04:19,173
+But the episode reveals the limits of deal-making by announcement: a ceasefire with no agreed start date, no verification mechanism, and no sign Moscow has even responded.
+
+43
+00:04:19,173 --> 00:04:28,164
+What next: watch whether Russia formally answers the ceasefire proposal, and whether Ukraine's refinery campaign continues into winter.
+
+44
+00:04:28,663 --> 00:04:30,870
+Markets are feeling all of this.
+
+45
+00:04:30,870 --> 00:04:33,215
+It was a risk-off day across Asia.
+
+46
+00:04:33,215 --> 00:04:36,662
+South Korea's benchmark index plunged six percent.
+
+47
+00:04:36,662 --> 00:04:39,559
+Japan's Nikkei fell two point six percent.
+
+48
+00:04:39,559 --> 00:04:44,730
+The broad Asia-Pacific index dropped two percent, led by technology shares.
+
+49
+00:04:44,730 --> 00:04:52,936
+On Wall Street overnight, the Nasdaq slipped half a percent as chipmakers sold off, while the Dow managed a small gain.
+
+50
+00:04:52,936 --> 00:04:55,901
+The through-line is energy and geopolitics.
+
+51
+00:04:55,901 --> 00:05:07,693
+Brent crude is near one hundred and six dollars a barrel, close to a two-week high, as the Riyadh strikes and the fragile Ukraine truce keep supply risks front and center.
+
+52
+00:05:07,693 --> 00:05:11,003
+The U S dollar sits near an eighteen-month high.
+
+53
+00:05:11,003 --> 00:05:11,761
+Gold eased.
+
+54
+00:05:11,761 --> 00:05:14,795
+Bitcoin slipped below eighty-three thousand.
+
+55
+00:05:14,795 --> 00:05:23,898
+Why it matters: as one strategist put it, markets are rediscovering that geopolitics matters most when it feeds back into inflation.
+
+56
+00:05:23,898 --> 00:05:32,586
+With oil elevated, pressure stays on interest rates, which is exactly what expensive growth and A I stocks don't want to hear.
+
+57
+00:05:32,586 --> 00:05:34,586
+What next: a packed calendar.
+
+58
+00:05:34,586 --> 00:05:44,516
+Big U S bank earnings begin tomorrow, American inflation data lands Wednesday, and Federal Reserve Chair Kevin Warsh speaks Thursday in Bangkok.
+
+59
+00:05:44,516 --> 00:05:54,031
+Finance ministers from one hundred and ninety-one countries are meeting all week in Thailand for the I M F and World Bank annual meetings.
+
+60
+00:05:54,531 --> 00:06:01,796
+Now to Stockholm and Oslo, where this year's Nobel Prizes are set, and one of them has ignited a diplomatic firestorm.
+
+61
+00:06:01,796 --> 00:06:13,000
+The Economics Prize went to two Americans: Robert Hall of Stanford and Michael Woodford of Columbia, honored for work on the microeconomic foundations of macroeconomic stabilization.
+
+62
+00:06:13,000 --> 00:06:20,079
+In plain terms: models that help central banks and governments cushion economies against shocks like energy crises.
+
+63
+00:06:20,079 --> 00:06:22,911
+Their research underpins tools used worldwide.
+
+64
+00:06:22,911 --> 00:06:34,238
+The Peace Prize went to Navi Pillay, the eighty-five-year-old South African jurist and former U N human rights chief, recognized for her efforts to promote peace and international law.
+
+65
+00:06:34,238 --> 00:06:41,933
+Pillay served as a judge on the International Criminal Court and led the U N inquiry into the occupied Palestinian territory.
+
+66
+00:06:41,933 --> 00:06:59,047
+Hours after the announcement, the Trump administration imposed sweeping financial sanctions on the International Criminal Court itself, a move the court condemned as an assault on the rule of law, and which eight allied foreign ministers, from Canada to Japan, publicly opposed.
+
+67
+00:06:59,047 --> 00:07:04,588
+President Trump, who has openly campaigned for the prize, called the decision disgraceful.
+
+68
+00:07:04,588 --> 00:07:16,099
+Why it matters: beyond the personalities, the prize is a statement about the rules-based order at a moment when it's under severe strain, from sanctions on courts to missiles on airports.
+
+69
+00:07:16,099 --> 00:07:19,731
+What next: the prizes will be formally awarded in December.
+
+70
+00:07:20,231 --> 00:07:27,319
+Artificial intelligence had one of its biggest weeks in months, for breakthroughs, warnings, and politics alike.
+
+71
+00:07:27,319 --> 00:07:41,936
+Meta released two new frontier models, Muse Wonder and Muse Wonder Full, which it calls its most capable systems to date, aimed at expert work in law, finance, health, and coding, and positioned as rivals to Anthropic and Open A I.
+
+72
+00:07:41,936 --> 00:07:54,844
+But the industry's mood was captured better in Singapore, where the chief executives of Broadcom and Intel warned that money, not chips, not electricity, is now the biggest constraint on the A I buildout.
+
+73
+00:07:54,844 --> 00:08:04,020
+Broadcom's Hock Tan said financing could become a bigger obstacle than any hardware shortage, and compared some A I investors to casino gamblers.
+
+74
+00:08:04,020 --> 00:08:07,500
+Intel's Lip-Bu Tan questioned the return on investment.
+
+75
+00:08:07,500 --> 00:08:10,474
+Chip stocks fell for a fourth straight session.
+
+76
+00:08:10,474 --> 00:08:12,499
+Then came the regulation debate.
+
+77
+00:08:12,499 --> 00:08:26,926
+Microsoft's president, Brad Smith, told the B B C that A I now faces less regulatory oversight than washing machines or milk cartons, and called for emergency brakes, mandatory incident reporting, and independent safety vetting.
+
+78
+00:08:26,926 --> 00:08:30,850
+Days earlier, Microsoft's chief executive made a similar call.
+
+79
+00:08:30,850 --> 00:08:47,871
+And in Washington, President Trump tapped his national intelligence director, Jay Clayton, to lead a new federal A I task force, the Super Intelligence Force, while the Federal Trade Commission is reported to be investigating Open A I and Anthropic over consumer risks.
+
+80
+00:08:47,871 --> 00:08:51,921
+Why it matters: the A I boom is entering a more skeptical phase.
+
+81
+00:08:51,921 --> 00:09:00,400
+The questions are no longer just what the technology can do, but who pays for it, who governs it, and what happens when it goes wrong.
+
+82
+00:09:00,400 --> 00:09:08,184
+What next: watch whether Meta's models shift the competitive balance, and whether any real regulation follows the rhetoric.
+
+83
+00:09:08,683 --> 00:09:16,157
+And a striking paradox to close the briefing: the Iran war may be doing more for the climate than years of summits.
+
+84
+00:09:16,157 --> 00:09:24,476
+Back in January, the International Energy Agency expected global oil demand to grow by nearly a million barrels a day this year.
+
+85
+00:09:24,476 --> 00:09:33,509
+By September, it was forecasting a decline of two and a half million barrels a day instead, driven by the impasse between the U S and Iran.
+
+86
+00:09:33,509 --> 00:09:35,459
+Less oil means less pollution.
+
+87
+00:09:35,459 --> 00:09:47,222
+Global fossil-fuel emissions are on track to fall around half a percent in twenty twenty-six, according to Carbon Brief, the first decline since the Covid pandemic in twenty twenty.
+
+88
+00:09:47,222 --> 00:09:54,890
+Electric vehicle sales rose four percent in the second quarter, as high fuel prices pushed buyers toward alternatives.
+
+89
+00:09:54,890 --> 00:09:57,360
+In Europe, E V sales hit record highs.
+
+90
+00:09:57,360 --> 00:10:01,584
+Why it matters: price shocks change behavior faster than pledges.
+
+91
+00:10:01,584 --> 00:10:04,964
+But analysts caution that driving less is temporary.
+
+92
+00:10:04,964 --> 00:10:06,913
+What lasts is what people buy.
+
+93
+00:10:06,913 --> 00:10:22,316
+What next: next month's COP thirty-one climate summit in Turkey, where the E U will push to turn national climate pledges into binding action after the world officially missed the Paris goal of limiting warming to one point five degrees.
+
+94
+00:10:22,816 --> 00:10:26,380
+Now, the deeper story: how did missiles reach Riyadh?
+
+95
+00:10:26,380 --> 00:10:30,416
+To understand this weekend, you have to go back to February.
+
+96
+00:10:30,416 --> 00:10:45,349
+That's when the United States and Israel launched a war against Iran, a conflict that sent oil above one hundred dollars and strangled the Strait of Hormuz, the waterway carrying roughly a fifth of the world's oil and gas.
+
+97
+00:10:45,349 --> 00:10:50,663
+Iran's leverage was geography: close the strait, and the global economy chokes.
+
+98
+00:10:50,663 --> 00:10:53,690
+Eight months later, the war has metastasized.
+
+99
+00:10:53,690 --> 00:11:02,367
+The Houthis, the Iran-backed movement that controls much of Yemen, including Red Sea coastline, have become Tehran's longest arm.
+
+100
+00:11:02,367 --> 00:11:16,492
+They've attacked shipping, and now they've demonstrated something new: the ability to strike Riyadh's international airport repeatedly, killing at least twenty people over the past week and forcing its closure.
+
+101
+00:11:16,492 --> 00:11:18,174
+Consider what that means.
+
+102
+00:11:18,174 --> 00:11:23,218
+Saudi Arabia is the world's swing oil producer and America's key Gulf ally.
+
+103
+00:11:23,218 --> 00:11:25,169
+Its airports are now targets.
+
+104
+00:11:25,169 --> 00:11:27,321
+Airlines are suspending flights.
+
+105
+00:11:27,321 --> 00:11:31,155
+The U K is telling its citizens to stay away from Riyadh.
+
+106
+00:11:31,155 --> 00:11:40,909
+At least ten massive oil tankers have stopped or reversed course near Fujairah, threatening the workaround routes that had restored Gulf exports.
+
+107
+00:11:40,909 --> 00:11:44,675
+Riyadh's response tells you how seriously it takes this.
+
+108
+00:11:44,675 --> 00:11:54,832
+Saudi Arabia plans to expand pipeline capacity bypassing the Strait of Hormuz by forty percent, to ten million barrels a day within two to three years.
+
+109
+00:11:54,832 --> 00:12:03,644
+That's a multi-year, strategic rewiring of the world's oil map, designed for a world where Hormuz can never be fully trusted again.
+
+110
+00:12:03,644 --> 00:12:06,200
+And then there's Washington's dilemma.
+
+111
+00:12:06,200 --> 00:12:10,505
+Crown Prince Mohammed bin Salman expects American military help.
+
+112
+00:12:10,505 --> 00:12:13,532
+Saudi Arabia has bought billions in U S arms.
+
+113
+00:12:13,532 --> 00:12:21,065
+But President Trump knows that deeper entanglement, three weeks before the midterms, could be politically toxic.
+
+114
+00:12:21,065 --> 00:12:25,572
+American voters are already paying for this war at the diesel pump.
+
+115
+00:12:25,572 --> 00:12:27,321
+Three scenarios from here.
+
+116
+00:12:27,321 --> 00:12:35,661
+One: diplomacy somehow freezes the escalation, unlikely, given Tehran calls Washington's latest Hormuz proposals inadequate.
+
+117
+00:12:35,661 --> 00:12:42,320
+Two: a grinding stalemate of intermittent strikes, with airports and shipping under rolling threat.
+
+118
+00:12:42,320 --> 00:12:49,787
+Three: full escalation, with the U S joining Saudi strikes on Yemen, and Iran answering against Gulf neighbors.
+
+119
+00:12:49,787 --> 00:12:53,823
+The through-line: this is no longer a war contained to Iran.
+
+120
+00:12:53,823 --> 00:12:59,944
+It's a regional conflict redrawing energy routes, airline maps, and alliances in real time.
+
+121
+00:13:00,443 --> 00:13:01,697
+What to watch next.
+
+122
+00:13:01,697 --> 00:13:10,073
+Tomorrow: America's biggest banks report earnings, the unofficial start of earnings season, and a health check on the consumer.
+
+123
+00:13:10,073 --> 00:13:12,051
+Wednesday: U S inflation data.
+
+124
+00:13:12,051 --> 00:13:19,965
+With oil above one-oh-six and diesel at record highs, this number matters for the Federal Reserve, and for the midterms.
+
+125
+00:13:19,965 --> 00:13:33,090
+Thursday: Fed Chair Kevin Warsh speaks in Bangkok, on the sidelines of the I M F and World Bank meetings, where one hundred and ninety-one countries are debating A I, debt, and geopolitical upheaval.
+
+126
+00:13:33,090 --> 00:13:41,334
+Next month: the COP thirty-one climate summit in Turkey, where the E U will push to turn climate pledges into binding action.
+
+127
+00:13:41,334 --> 00:13:50,435
+And November third: America's midterm elections, with diesel prices, the Iran war, and now Riyadh all on the ballot in one way or another.
+
+128
+00:13:50,936 --> 00:13:55,302
+The takeaway: the world's crises are no longer distant headlines.
+
+129
+00:13:55,302 --> 00:13:59,199
+A missile over Riyadh moves the price at your gas station.
+
+130
+00:13:59,199 --> 00:14:03,095
+A ceasefire announced on social media unravels by morning.
+
+131
+00:14:03,095 --> 00:14:10,350
+And the institutions built to keep the peace, courts, treaties, central banks, are being tested all at once.
+
+132
+00:14:10,350 --> 00:14:11,895
+That's the world today.
+
+133
+00:14:11,895 --> 00:14:19,621
+If this briefing helped you understand it, subscribe to The World in Ten, the world explained, one story at a time.
+
+134
+00:14:19,621 --> 00:14:21,704
+We'll see you tomorrow at nine.
+
